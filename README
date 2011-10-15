@@ -1,0 +1,11 @@
+== Rails 3.1 upgraded version of James Yu's CloudEdit(https://github.com/jamesyu/CloudEdit).
+
+The excellent tutorial by James Yu (http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/) explains how to use Rails and backbone.js.
+
+== Main changes for upgrade
+- Use rails3.1 assets instead of jamit
+
+== To run
+- bundle install
+- rake db:migrate
+- rails s
