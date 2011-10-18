@@ -1,9 +1,12 @@
 == Rails 3.1 upgraded version of James Yu's CloudEdit(https://github.com/jamesyu/CloudEdit).
 
-The excellent tutorial by James Yu (http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/) explains how to use Rails and backbone.js.
+To make easier to try the James Yu example, I upgraded it to Rails 3.1.
+The excellent tutorial by James Yu (http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/) explains how to use Rails and backbone.js together.
 
 == Main changes for upgrade
-- Use rails3.1 assets instead of jamit
+- Use rails3.1 assets instead of jammit
+- Upgraded Backbone 0.5.3 and changed Backbone.Controller to Backbone.Router
+- Change jammit micro-template to EJS gem(https://github.com/sstephenson/ruby-ejs)
 
 == To run
 - bundle install

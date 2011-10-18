@@ -6,4 +6,14 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require json2
+//= require underscore
+//= require backbone
+//= require app
+//= require jquery_dotimeout
+//= require_directory ./models
+//= require_directory ./collections
+//= require_directory ./views
+//= require_directory ./controllers
+//= require_directory ./templates
+
