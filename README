@@ -5,10 +5,16 @@ The excellent tutorial by James Yu (http://www.jamesyu.org/2011/01/27/cloudedit-
 
 == Main changes for upgrade
 - Use rails3.1 assets instead of jammit
-- Upgraded Backbone 0.5.3 and changed Backbone.Controller to Backbone.Router
+- Upgraded to Backbone 0.5.3 and changed Backbone.Controller to Backbone.Router
 - Change jammit micro-template to EJS gem(https://github.com/sstephenson/ruby-ejs)
 
 == To run
 - bundle install
 - rake db:migrate
 - rails s
+
+== License
+
+Copyright © 2011 Pado Peak <peakpado@gmail.com>
+
+cloudedit-rails3.1 is distributed under an MIT-style license. See LICENSE for details.
