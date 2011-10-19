@@ -13,8 +13,5 @@ The excellent tutorial by James Yu (http://www.jamesyu.org/2011/01/27/cloudedit-
 - rake db:migrate
 - rails s
 
-== License
 
-Copyright © 2011 Pado Peak <peakpado@gmail.com>
-
-cloudedit-rails3.1 is distributed under an MIT-style license. See LICENSE for details.
+Provided by Pado Peak <peakpado@gmail.com>
